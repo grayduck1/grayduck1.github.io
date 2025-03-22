@@ -1,3 +1,6 @@
+Version 3.0.4 patch notes:
+- Icon and wallpaper updates
+
 Version 3.0.3 patch notes:
 - Added an app to create new OS user accounts that are Twister-compatible
 - Improved ThemeTwister wallpaper support for dual displays
