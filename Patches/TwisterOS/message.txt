@@ -1,3 +1,10 @@
+Version 3.0.5 patch notes:
+- Added Twister Plasma themes
+- Updated user account creation app
+- Moved user account creation template files to centralized location
+- Updated ThemeTwister app
+- Updated Onboarding app
+
 Version 3.0.4 patch notes:
 - Icon and wallpaper updates
 
