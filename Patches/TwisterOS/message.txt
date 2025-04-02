@@ -1,3 +1,7 @@
+Version 3.0.6 patch notes:
+- Twister 11 theme improvements
+- Added Twister OS Diagnostics app
+
 Version 3.0.5 patch notes:
 - Added Twister Plasma themes
 - Updated user account creation app
