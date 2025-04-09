@@ -1,3 +1,9 @@
+Version 3.0.7 patch notes:
+- Added mouse cursors for Twister Plasma themes
+- Updated ThemeTwister
+- Moved software installers to centralized location
+- Updated user account creation app
+
 Version 3.0.6 patch notes:
 - Twister 11 theme improvements
 - Added Twister OS Diagnostics app
