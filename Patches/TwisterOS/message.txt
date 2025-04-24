@@ -1,3 +1,11 @@
+Version 3.0.8 patch notes:
+- Added DOSBox, Galculator, and Raspberry Pi Diagnostics applications
+- Added additional color emoji support
+- Removed application shortcut overrides that were no longer necessary
+- Further Twister 11 theme improvements
+- Updated user account creation app
+- Updated Pi-Apps installer to recognize pre-installed applications in Twister OS
+
 Version 3.0.7 patch notes:
 - Added mouse cursors for Twister Plasma themes
 - Updated ThemeTwister
