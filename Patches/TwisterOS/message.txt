@@ -1,3 +1,14 @@
+Version 3.1.0 patch notes:
+- Re-added Zenity for Winetricks support
+- Added libspa-0.2-bluetooth to improve bluetooth device compatibility
+- Updated LightPad
+- Updated iTwister Sur themes to iTwister XV
+- Added Conky desktop widgets for iTwister XV themes
+- Updated ThemeTwister
+- Updated user account creation app
+- Icon and wallpaper updates
+- General housekeeping and cleanup work
+
 Version 3.0.9 patch notes:
 - iTwister, iTwister Sur, and Twister Plasma theme improvements
 - Added sbin paths to system PATH variable for broader app compatibility
